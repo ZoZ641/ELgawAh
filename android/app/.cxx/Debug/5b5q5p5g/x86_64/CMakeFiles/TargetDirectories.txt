@@ -1,0 +1,2 @@
+D:/Collage/Courses/Udemy Flutter/Apps/Clima/android/app/.cxx/Debug/5b5q5p5g/x86_64/CMakeFiles/edit_cache.dir
+D:/Collage/Courses/Udemy Flutter/Apps/Clima/android/app/.cxx/Debug/5b5q5p5g/x86_64/CMakeFiles/rebuild_cache.dir
